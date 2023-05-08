@@ -1,0 +1,14 @@
+{
+  "name": "something",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest",
+    "coverage": "vitest run --coverage"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@vitest/coverage-c8": "^0.31.0",
+    "vitest": "^0.31.0"
+  }
+}
