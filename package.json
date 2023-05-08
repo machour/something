@@ -9,6 +9,7 @@
   "license": "MIT",
   "devDependencies": {
     "@vitest/coverage-c8": "^0.31.0",
+    "prettier": "^2.8.8",
     "vitest": "^0.31.0"
   }
 }
